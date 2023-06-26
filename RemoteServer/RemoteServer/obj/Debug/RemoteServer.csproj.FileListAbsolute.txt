@@ -1,0 +1,11 @@
+C:\Users\jose_\source\repos\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe.config
+C:\Users\jose_\source\repos\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe
+C:\Users\jose_\source\repos\RemoteServer\RemoteServer\bin\Debug\RemoteServer.pdb
+C:\Users\jose_\source\repos\RemoteServer\RemoteServer\bin\Debug\ServerClass.dll
+C:\Users\jose_\source\repos\RemoteServer\RemoteServer\bin\Debug\ServerClass.pdb
+C:\Users\jose_\source\repos\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.AssemblyReference.cache
+C:\Users\jose_\source\repos\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose_\source\repos\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.CoreCompileInputs.cache
+C:\Users\jose_\source\repos\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.CopyComplete
+C:\Users\jose_\source\repos\RemoteServer\RemoteServer\obj\Debug\RemoteServer.exe
+C:\Users\jose_\source\repos\RemoteServer\RemoteServer\obj\Debug\RemoteServer.pdb

@@ -1,0 +1,6 @@
+C:\Users\jose_\source\repos\ServerClass\ServerClass\bin\Debug\ServerClass.dll
+C:\Users\jose_\source\repos\ServerClass\ServerClass\bin\Debug\ServerClass.pdb
+C:\Users\jose_\source\repos\ServerClass\ServerClass\obj\Debug\ServerClass.csproj.AssemblyReference.cache
+C:\Users\jose_\source\repos\ServerClass\ServerClass\obj\Debug\ServerClass.csproj.CoreCompileInputs.cache
+C:\Users\jose_\source\repos\ServerClass\ServerClass\obj\Debug\ServerClass.dll
+C:\Users\jose_\source\repos\ServerClass\ServerClass\obj\Debug\ServerClass.pdb
